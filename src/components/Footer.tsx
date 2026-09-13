@@ -5,7 +5,7 @@ const FOOTER_GROUPS = [
   },
   {
     title: "COMPANY",
-    links: ["", "Contact", "Careers"],
+    links: ["About", "Contact", "Careers"],
   },
   {
     title: "LEGAL",
