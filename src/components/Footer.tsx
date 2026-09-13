@@ -1,7 +1,7 @@
 const FOOTER_GROUPS = [
   {
     title: "PRODUCT",
-    links: ["", "Technologies", "Projects"],
+    links: ["Home", "Technologies", "Projects"],
   },
   {
     title: "COMPANY",
