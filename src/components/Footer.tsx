@@ -33,7 +33,7 @@ function Footer() {
           </p>
 
           <div className="flex gap-5 text-[11px] text-slate-500">
-            <a href="/#" className="hover:text-slate-800">GitHub</a>
+            <a href="#" className="hover:text-slate-800">GitHub</a>
             <a href="#" className="hover:text-slate-800">Twitter</a>
             <a href="#" className="hover:text-slate-800">LinkedIn</a>
           </div>
